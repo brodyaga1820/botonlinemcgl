@@ -3,4 +3,4 @@ bs4
 requests
 lxml
 selenium
-sqlite3
+sqlite
