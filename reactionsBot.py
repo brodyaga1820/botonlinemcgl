@@ -52,6 +52,7 @@ class MyClient(discord.Client):
 				await mymessage.delete()
 bot = MyClient()
 token = os.environ.get('BOT_TOKEN')
+bot.run(token)
 
 
            
