@@ -1,2 +1,2 @@
-worker: python reactionsBot.py
-worker: python update.py
+worker: python reactionsBot.py update.py
+
