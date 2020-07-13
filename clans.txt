@@ -1,0 +1,16 @@
+Alliance|1857|455
+Alliance A|1670|20
+Alpha Centauri|891|134
+Haunted Family|2012|108
+Hell|2195|117
+Monte Carlo|93|355
+Night Robbers|691|28
+OrdenChaos|982|470
+Project TRoN|1640|32
+Revenant|542|183
+Storm|991|245
+TRIADA|2142|211
+TRoN|786|410
+TheFreezed|117|53
+TheRegents|2163|271
+ZERG|2199|88
